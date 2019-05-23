@@ -77,7 +77,7 @@ namespace PtacDealerExcelToTableService
                     if (!Directory.Exists(logPath))
                         Directory.CreateDirectory(logPath);
 
-                    fileTarget.FileName = Path.Combine(logPath, "Log.txt");
+                    fileTarget.FileName = Path.Combine(logPath, "DealersLog.txt");
                     fileTarget.ArchiveFileName = Path.Combine(logPath, "Log.{#####}.txt");
                     fileTarget.ArchiveAboveSize = 104857600; //102,400KB = 100MB   //10240; // 10kb
                     fileTarget.ArchiveNumbering = ArchiveNumberingMode.Sequence;

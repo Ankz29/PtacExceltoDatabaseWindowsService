@@ -3,47 +3,202 @@ Affected parameters are:
    logtoconsole = 
    logfile = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
    assemblypath = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
-Rolling back assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
 Affected parameters are:
    logtoconsole = 
    logfile = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
    assemblypath = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
-An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
-System.NullReferenceException: Object reference not set to an instance of an object.
-An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Removing EventLog source PTACDealerService.
+Service PTACDealerService is being removed from the system...
+Service PTACDealerService was successfully removed from the system.
+Attempt to stop service PTACDealerService.
 Installing assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
 Affected parameters are:
    logtoconsole = 
    logfile = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
    assemblypath = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
-Rolling back assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
 Affected parameters are:
    logtoconsole = 
    logfile = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
    assemblypath = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
-An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
-System.NullReferenceException: Object reference not set to an instance of an object.
-An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
-Installing assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
 Affected parameters are:
    logtoconsole = 
-   logfile = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
-   assemblypath = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
-Rolling back assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
 Affected parameters are:
    logtoconsole = 
-   logfile = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
-   assemblypath = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
-Installing assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
 Affected parameters are:
    logtoconsole = 
-   logfile = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
-   assemblypath = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
-Installing service Service1...
-Creating EventLog source Service1 in log Application...
-Rolling back assembly 'D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
 Affected parameters are:
    logtoconsole = 
-   logfile = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
-   assemblypath = D:\Practice\MVC Practice Programs\PtacDealerExcelToTableService\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
-Restoring event log to previous state for source Service1.
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe
+Installing service PTACDealerService...
+Service PTACDealerService has been successfully installed.
+Creating EventLog source PTACDealerService in log Application...
+Committing assembly 'D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.InstallLog
+   assemblypath = D:\PtacDealersDataSyncWindowsService\PTACdealersSync\PtacDealerExcelToTableService\bin\Debug\PtacDealerExcelToTableService.exe

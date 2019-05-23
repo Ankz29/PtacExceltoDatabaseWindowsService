@@ -11,24 +11,14 @@ namespace PtacDealerExcelToTableService
 {
     class MailHelper
     {
-
         public MailHelper()
-        {
-            //this.Host = "smtp.gmail.com";
-            //this.Port = 587;
-            //this.Username = "dotnetdeveloper@softwaysolutions.com";
-            //this.Password = "Test@12345";
-            //this.From = "developer@softwaysolutions.com";
-            //this.EnableSsl = true;
-
+        {         
             this.Host = ConfigurationManager.AppSettings["Host"].ToString();
             this.Port = Int32.Parse(ConfigurationManager.AppSettings["Port"]);
             this.Username = ConfigurationManager.AppSettings["EmailUsername"].ToString();
             this.Password = ConfigurationManager.AppSettings["EmailPassword"].ToString();
             this.From = ConfigurationManager.AppSettings["From"].ToString();
             this.EnableSsl = Convert.ToBoolean(ConfigurationManager.AppSettings["EnableSsl"]);
-
-
         }
         public string From { get; set; }
         public string Host { get; set; }
@@ -41,7 +31,6 @@ namespace PtacDealerExcelToTableService
         {
             try
             {
-
                 var smtpClient = new SmtpClient(this.Host, this.Port);
                 smtpClient.EnableSsl = this.EnableSsl;
                 smtpClient.UseDefaultCredentials = false;
@@ -51,7 +40,6 @@ namespace PtacDealerExcelToTableService
                     {
                         Subject = Subject,
                         Body = Body
-
                     };
                 message.IsBodyHtml = true;
                 smtpClient.Send(message);

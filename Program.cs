@@ -16,21 +16,17 @@ namespace PtacDealerExcelToTableService
         /// </summary>
         static void Main()
         {
-        //    ServiceBase[] ServicesToRun;
-        //    ServicesToRun = new ServiceBase[] 
-        //    { 
-        //        new PtacDealerExcelToTableService() 
-        //    };
-        //    ServiceBase.Run(ServicesToRun);
+            ServiceBase[] ServicesToRun;
+            ServicesToRun = new ServiceBase[] 
+            { 
+                new PtacDealerExcelToTableService() 
+            };
+            ServiceBase.Run(ServicesToRun);
 
+            //PtacDealerExcelDataDBDump service1 = new PtacDealerExcelDataDBDump();
+            //service1.ExcelToTableService();
 
-            //PtacDealerExcelToTableService service = new PtacDealerExcelToTableService();
-
-            PtacDealerExcelDataDBDump service1 = new PtacDealerExcelDataDBDump();
-            service1.ExcelToTableService();
-
-            //PtacDealerExcelToTableService service = new PtacDealerExcelToTableService();
-            //service.OnStart(test);
+          
 
         }
     }
